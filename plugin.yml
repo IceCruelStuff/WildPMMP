@@ -1,5 +1,5 @@
-name: Wild
-api: 1.0.0, 2.0.0, 3.0.0, 4.0.0
+name: WildPMMP
+api: 3.0.0, 4.0.0
 load:
 version: 1.0.0
 description: A advanced plugin to teleport players to the wild
