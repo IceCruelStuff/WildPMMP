@@ -1,10 +1,10 @@
 name: WildPMMP
 api: 3.0.0, 4.0.0
-load:
-version: 1.0.0
+load: STARTUP
+version: 1.2
 description: A advanced plugin to teleport players to the wild
 website: https://github.com/IceCruelStuff/WildPMMP
 commands:
   wild:
     usage: /wild
-    description Teleports players into the wild
+    description: Teleports players into the wild
